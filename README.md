@@ -34,7 +34,7 @@ This script solves all that in one go: clean, extract, and normalize your data â
 
 ## ðŸ§ª Usage Examples
 
-```bash
+```
 usage: urldeduper.py [-h] [--replace REPLACE_VALUE] [--blacklist [EXT ...]] [-param | -subdomain | -domain | -path | -data]
 
 URL deduplication and filtering tool with flexible parameter extraction.
